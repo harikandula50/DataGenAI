@@ -1,1 +1,1 @@
-# ExcelGenAI
+# DataGenAI
